@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26056089/README.md)
 <div align="center">
 
 ```
@@ -12,7 +11,7 @@
 
 # Olá, eu sou o Vinicius! ⚡
 
-**`Analista de Dados | Setor Elétrico | Python · SQL · Power BI`**
+**`Analista de Dados | 10 anos no Setor Elétrico | Python · SQL · Power BI`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-emilio-de-oliveira-16a816191/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusOliveira3)
@@ -24,13 +23,13 @@
 
 ## 🔌 Sobre mim
 
-Analista de Dados com **2 anos de experiência no setor elétrico**, focado em transformar dados operacionais em insights que geram valor real para o negócio.
+Analista de Dados com **2 anos de experiência em dados** e **10 anos de atuação no setor elétrico**, focado em transformar dados operacionais em insights que geram valor real para o negócio.
 
-- ⚡ Trabalho com dados do **setor de energia elétrica** — desde medição até análise de consumo
+- ⚡ **10 anos no setor elétrico** — conhecimento profundo de processos, operações e desafios do setor
 - 📊 Crio dashboards e relatórios no **Power BI** que simplificam decisões estratégicas
 - 🐍 Uso **Python + SQL** para tratamento, análise e automação de dados
 - 🌱 Atualmente aprendendo **PHP + Laravel** para integrar dados com aplicações web
-- 🚀 Sempre buscando projetos que unam **tecnologia e impacto real**
+- 🚀 Combino **experiência de campo com visão analítica** para entregar soluções com impacto real
 
 ---
 
